@@ -2,6 +2,9 @@
 weird javascript keyboards.  mostly for psychological testing.  mostly jsfiddles?
 
 # What in the... Why?
+
+I think text and typing is really cool.
+
 Why do we type the way we do?  Are there other ways to go about it?  A lot of
 it is historical, and these are thought experiments that go against that...
 With these in mind, it seems like whoever made our rules did a pretty good job!
@@ -13,13 +16,27 @@ only take a handful of minutes to memorize.
 It's also a reminder of how much quicker information can be absorbed if you have the relevant 
 scaffolding/associations to place it onto.
 
-It's also fun to see how fast you can do them.  Last time I did the 4 finger timing based keboard, 
+It's also fun to see how fast you can do them.  Last time I did the 4 key timing based keboard, 
 I was able to type the alphabet in about 20 seconds.
 
 # Keyboards List
 
-### 4 Finger Timing Based Keyboard ###
-Demo at http://jsfiddle.net/csyykgct/4/
+### Long Words Abbreviation Keyboard ###
+
+Demo at http://jsfiddle.net/sv5ak1cg/1/
+
+This keyboard lets you type long words by typing the first and last letters of a word, 
+and then as many additional characters as you think are necessary to uniquely specify a word.  The 
+available word list is only words from the top 5k English words that have more than 6 characters, 
+though.
+
+For example, you can type normally, then if you feel "agreement" is too long, press Esc + agt + Esc.
+
+How good you are at this probably has to do with how fast you can consider word collisions 
+(at least within common words).
+
+### 4 Key Timing Based Keyboard ###
+Demo at http://jsfiddle.net/csyykgct/6/
 
 This keyboard only uses keys d, f, k and j. You use many keys struck within
 200ms to enter other letters.
