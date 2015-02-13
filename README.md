@@ -57,6 +57,6 @@ stick much easier.  It's fairly analgous to various rudiments.
 If you hate doing real work and spend all your time setting up meetings to
 stall and get people off of your back, writing all those invites becomes the
 very work you're trying to avoid! Use the codes to quickly build a meeting
-template.  Common meetings can be created in just a few seconds if you're good.
+template.  Common meetings can be created in several seconds if you're good.
 
 http://jsfiddle.net/1kefxavf/19/
